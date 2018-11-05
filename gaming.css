@@ -1,0 +1,17 @@
+body {
+  background: aliceblue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight:bolder;
+  color: red;
+  font-family: fantasy;
+  font-size: 40px;
+}
+.img {
+    border-style: dotted;
+    border-radius: 15px;
+    border-width: medium;
+}
