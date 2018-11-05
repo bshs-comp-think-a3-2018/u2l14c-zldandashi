@@ -1,0 +1,34 @@
+body {
+  background: aliceblue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color:red;
+  text-align: center;
+  font-family: fantasy;
+}
+h3 {
+    color: black;
+    text-align: center;
+  font-family: fantasy;
+}
+.img {
+    width=400px;
+    border-style:dotted;
+    border-color:black;
+    border-radius: 15px;
+    border-width: medium;
+    float: right;
+}
+.paragraph {
+  color: rgb(5,240,160);
+  font-family: sans-serif;
+}
+.credits {
+  text-align: right;
+}
+  
+    
